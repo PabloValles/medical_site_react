@@ -13,6 +13,7 @@ export default {
         irisBlueColor: "#01B5C5",
         headingColor: "#181A1E",
         textColor: "#4E545F",
+        greenColor: "#00B74A",
       },
 
       boxShadow: {
