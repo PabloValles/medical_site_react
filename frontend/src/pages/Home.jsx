@@ -1,4 +1,4 @@
-import heroImg1 from '../assets/images/hero-img05.png'
+import heroImg1 from '../assets/images/hero-img06-bg.png'
 
 const Home = () => {
   return <>
@@ -47,7 +47,7 @@ const Home = () => {
 
           {/* Hero image */}
           <div className="flex gap-[30px] justify-end">
-            <div>
+            <div className='rounded-[20px] overflow-hidden'>
               <img src={heroImg1} alt="hero" />
             </div>
           </div>
